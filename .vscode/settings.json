@@ -1,0 +1,7 @@
+{
+    "livePreview.customExternalBrowser": "Edge",
+    "debug.javascript.defaultRuntimeExecutable": {
+
+        "pwa-node": "node"
+    }
+}
